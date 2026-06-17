@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey, there 👋
 
-<!--
-**pardis-abb/pardis-abb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pardis, a second-year Electrical Engineering student at the University of Calgary.
 
-Here are some ideas to get you started:
+I am a Summer 2026 NSERC Undergraduate Research Student. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Research Topic 
+
+⚡ My current research focuses on forecasting electricity demand under climate change and electrification scenarios, with an emphasis on heat pump and air
+conditioning load modelling.
+
+## Current Project 
+
+🔬 Developing and evaluating methodologies to estimate the impact of heat pump and air conditioning adoption on future electricity demand using weather, load, and
+market datasets.
+
+## Fun Facts
+
+🏐 I coach competitive volleyball.
+
+🎹 I am a piano teacher with over five years of teaching experience.
+
+🐶 I have a dog named Cookie.
