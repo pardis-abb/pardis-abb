@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Electrical+Engineering+Student;Research+Assistant;Software+Developer;Building+Technology+for+a+Sustainable+Future" alt="Typing SVG" />
 
-### ⚡ Engineering • Research • Software Development
+### ⚡ Engineering • Research • Software Development • Power Systems 
 
-Passionate about developing innovative software solutions, solving real-world engineering problems, and leveraging technology to create sustainable, data-driven systems.
+Passionate about advancing power systems, strengthening electrical infrastructure, and developing technologies that improve the reliability, efficiency, and sustainability of modern energy systems.
 
 </div>
 
@@ -23,12 +23,15 @@ Passionate about developing innovative software solutions, solving real-world en
 - GitHub Portfolio Development
 
 💡 Interested in:
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Renewable Energy
-- Full-Stack Development
+
+- Electrical Power Systems
+- Smart Grids & Grid Modernization
+- Nuclear Power & Advanced Reactor Technologies
+- Renewable & Sustainable Energy Systems
+- Electricity Demand Forecasting
+- Artificial Intelligence for Power Systems
+- Scientific Computing
+- Data Analytics & Energy Modeling
 
 🌱 Currently improving:
 - Advanced Python
@@ -40,7 +43,7 @@ Passionate about developing innovative software solutions, solving real-world en
 
 🎯 Career Goal
 
-To become a software engineer developing intelligent, scalable, and impactful technologies that bridge engineering, sustainability, and modern software development.
+To become an Electrical Engineer who develops innovative technologies that strengthen the power sector and improve the reliability, efficiency, and sustainability of modern energy systems. I am passionate about contributing to advancements in electrical infrastructure, smart grids, and semiconductor technologies that make everyday life safer, more efficient, and more sustainable.
 
 ---
 
@@ -50,20 +53,13 @@ To become a software engineer developing intelligent, scalable, and impactful te
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ### Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Data & Tools
 
@@ -78,11 +74,11 @@ To become a software engineer developing intelligent, scalable, and impactful te
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pardis-abb&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pardis-abb&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardis-abb&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +88,7 @@ To become a software engineer developing intelligent, scalable, and impactful te
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pardis-abb&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -119,8 +115,7 @@ Engineering model for estimating electrical demand from residential heat pumps u
 - Excel
 - Energy Modeling
 - Data Analysis
-
-🔗 https://github.com/YOUR_USERNAME/heat-pump-demand-model
+🔗 https://github.com/pardis-abb/energy-demand-calculator
 
 ---
 
@@ -134,7 +129,7 @@ Interactive engineering calculator for evaluating multiple heat pump methodologi
 - Excel
 - GitHub
 
-🔗 https://github.com/YOUR_USERNAME/energy-demand-calculator
+🔗 https://github.com/pardis-abb/energy-demand-calculator
 
 ---
 
@@ -145,10 +140,10 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 **Tech Used**
 
 - Python
-- Pandas
 - NumPy
+- Excel 
 
-🔗 https://github.com/YOUR_USERNAME/climate-data-analysis
+🔗 https://github.com/pardis-abb/climate-data-analysis
 
 ---
 
@@ -157,20 +152,17 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 - Advanced Python Programming
 - Machine Learning Fundamentals
 - React Development
-- SQL & Databases
 - Data Visualization
-- Software Engineering Best Practices
 - Clean Code Principles
 
 ---
 
 # 🏆 Achievements
 
-- 🎓 Electrical Engineering Student
-- 🔬 Undergraduate Research Assistant
-- 📈 Engineering Data Analysis
-- 💻 Open Source Enthusiast
-- 🌍 Passionate about Sustainable Technology
+- 🔬 NSERC (USRA) Undergraduate Research Award 
+- 💻 Jason Lang Scholarship 
+- 📈 Dean's List 
+- 🌍 Norman Ronald Silver Memorial Entrance Scholarship
 
 ---
 
@@ -178,15 +170,15 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/pardis-abbasnejad-7340aa243">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pardis-abb">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pardis.abbasnejad@ucalgary.ca">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -196,7 +188,7 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 
 # ⚡ Fun Fact
 
-💡 I enjoy combining engineering principles with software development to solve real-world problems. Whether I'm building data-driven models, contributing to research, or creating software projects, I'm always looking for opportunities to learn something new and make a meaningful impact.
+💡 Outside of engineering, I coach competitive youth volleyball and teach piano. These experiences have strengthened my leadership, communication, and mentoring skills, while reinforcing the importance of teamwork, discipline, and continuous learning.
 
 ---
 
@@ -206,6 +198,6 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 
 *"Code with purpose. Learn continuously. Build solutions that matter."*
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=pardis-abb&style=for-the-badge&color=blue)
 
 </div>
