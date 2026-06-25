@@ -34,12 +34,13 @@ Passionate about advancing power systems, strengthening electrical infrastructur
 - Data Analytics & Energy Modeling
 
 🌱 Currently improving:
-- Advanced Python
-- Git & GitHub
-- React
-- SQL
-- Data Visualization
-- Scientific Programming
+
+- Power System Analysis
+- Grid Modernization & Smart Grid Technologies
+- Semiconductor Fundamentals
+- Python for Engineering Applications
+- Power System Modeling & Simulation
+- Data Analytics for Energy Systems
 
 🎯 Career Goal
 
@@ -58,12 +59,11 @@ To become an Electrical Engineer who develops innovative technologies that stren
 
 ### Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### Data & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
