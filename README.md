@@ -94,12 +94,12 @@ To become an Electrical Engineer who develops innovative technologies that stren
 
 ### 🐍 Contribution Snake
 
-```text
-Create with GitHub Actions:
 
-Platane/snk
-https://github.com/Platane/snk
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pardis-abb/pardis-abb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pardis-abb/pardis-abb/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pardis-abb/pardis-abb/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
