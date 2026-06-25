@@ -170,7 +170,7 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 
 <p align="left">
 
-<a href="www.linkedin.com/in/pardis-abbasnejad-7340aa243">
+<a href="https://www.linkedin.com/in/pardis-abbasnejad-7340aa243/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
