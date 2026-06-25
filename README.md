@@ -115,7 +115,7 @@ Engineering model for estimating electrical demand from residential heat pumps u
 - Excel
 - Energy Modeling
 - Data Analysis
-🔗 https://github.com/pardis-abb/energy-demand-calculator
+🔗 https://github.com/pardis-abb/HeatPump_Load_Forecasting/blob/main/heat_pump_methodologies_app.py
 
 ---
 
@@ -129,7 +129,7 @@ Interactive engineering calculator for evaluating multiple heat pump methodologi
 - Excel
 - GitHub
 
-🔗 https://github.com/pardis-abb/energy-demand-calculator
+🔗 https://github.com/pardis-abb/HeatPump_Load_Forecasting/blob/main/heat_pump_methodologies_app.py
 
 ---
 
@@ -143,7 +143,7 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 - NumPy
 - Excel 
 
-🔗 https://github.com/pardis-abb/climate-data-analysis
+🔗 https://github.com/pardis-abb/HeatPump_Load_Forecasting/blob/main/Excel%20Formulations%20(1).xlsx
 
 ---
 
