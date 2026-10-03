@@ -159,7 +159,8 @@ Data processing tools for weather datasets, electricity demand, and engineering 
 
 # 🏆 Achievements
 
-- 🔬 NSERC (USRA) Undergraduate Research Award 
+- 🔬 NSERC (USRA) Undergraduate Research Award
+- 🏆 PMAPS 2026 Best Undergraduate Poster Award
 - 💻 Jason Lang Scholarship 
 - 📈 Dean's List 
 - 🌍 Norman Ronald Silver Memorial Entrance Scholarship
